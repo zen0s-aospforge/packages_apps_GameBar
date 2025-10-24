@@ -63,8 +63,7 @@
         <!-- GameBar Overlay -->
         <activity
             android:name=".GameBarSettingsActivity"
-            android:label="@string/app_title"
-            android:icon="@mipmap/ic_gamebar_launcher"
+            android:label="@string/game_bar_title"
             android:theme="@style/Theme.SubSettingsBase.Expressive"
             android:exported="true">
             <intent-filter>
